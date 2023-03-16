@@ -1,5 +1,6 @@
 # Inaugural project
 
-The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
+This is the first assignment for "IntroProg", which is the the inaugrual project.
+The results for the project can be seen by running the notebook-file (inauguralproject.ipynb).
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+The project is made by Emil Rasmussen and Frederik Skov.
